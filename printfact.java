@@ -8,6 +8,7 @@ class printfact{
             sum*=i;
         }
         System.out.println("the factprial of "+num+" is "+sum);
+        sc.close();
 
     }
 }

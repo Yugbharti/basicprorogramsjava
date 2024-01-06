@@ -6,6 +6,7 @@ public class printhelloworld {
         for(int i =0;i<=n;i++){
             System.out.println(i+" hello world");
         }
+        sc.close();
 
     }
     
